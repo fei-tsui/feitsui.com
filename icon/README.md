@@ -1,2 +1,2 @@
-[180x180](https://cdn.jsdelivr.net/gh/fei-tsui/feitsui.com/icon/180x180.png)
-[192x192](https://cdn.jsdelivr.net/gh/fei-tsui/feitsui.com/icon/192x192.png)
+- [180x180](https://cdn.jsdelivr.net/gh/fei-tsui/feitsui.com/icon/180x180.png)
+- [192x192](https://cdn.jsdelivr.net/gh/fei-tsui/feitsui.com/icon/192x192.png)
